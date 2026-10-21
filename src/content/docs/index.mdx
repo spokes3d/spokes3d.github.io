@@ -1,0 +1,62 @@
+---
+title: spokes3d
+description: Research notes on spoke formation in magnetron discharges, with what the experiments show, what simulations reach, and which questions are still open.
+template: splash
+hero:
+  tagline: Research notes on the rotating ionization zones (spokes) of magnetron discharges. What the experiments measure, what simulations can and cannot reach, and which questions are still open.
+  actions:
+    - text: Open questions
+      link: /questions/
+      icon: right-arrow
+    - text: What a spoke is
+      link: /summaries/spokes-in-brief/
+      icon: right-arrow
+      variant: secondary
+---
+
+import { Card, CardGrid, LinkCard } from '@astrojs/starlight/components';
+
+In a magnetron discharge the plasma above the target is not uniform. It breaks up into
+**spokes**: ionization zones a few millimetres above the racetrack that rotate along it at
+kilometres per second. Their speed, direction, number and shape change with power, pressure,
+magnetic field and target material. They carry part of the electron transport across the
+magnetic field, and they help the sputtered metal ions reach the substrate.
+
+These notes follow a research programme that studies the properties of spokes by computation.
+It starts from the experimental picture in the review by Hecimovic and von Keudell (2018) and from
+the gaps that review names. A second aim is to reproduce the published magnetron simulations,
+one model family at a time, against the numbers their papers report.
+
+## The notes
+
+<CardGrid>
+	<LinkCard title="Summaries" href="/summaries/" description="Short summaries of the key papers, and of what a spoke is." />
+	<LinkCard title="Experiments" href="/experiments/" description="What has been measured: onset, direction, speed, mode number, shape, density, transport." />
+	<LinkCard title="Simulations" href="/simulations/" description="The model families in the literature, the reference cases, and the ladder of models built here." />
+	<LinkCard title="Open questions" href="/questions/" description="Eight questions about spoke formation, each with an observable and the model that can answer it." />
+	<LinkCard title="Resources" href="/resources/" description="Bibliography with reading status, codes, data and a glossary." />
+	<LinkCard title="Log" href="/log/" description="What changed and when." />
+</CardGrid>
+
+## At a glance
+
+<CardGrid>
+	<Card title="The experiments" icon="magnifier">
+		Spokes rotate against the E×B drift at low power and with it in HiPIMS, about ten times
+		slower than the drift. At very high power the plasma turns homogeneous again.
+		No probe gets inside a spoke, so its density is still not known.
+	</Card>
+	<Card title="The simulations" icon="laptop">
+		2D particle-in-cell codes reproduce spokes at DC densities. At HiPIMS density, 3D PIC is out
+		of reach. Fluid theory is linear and has neither gas depletion nor secondary electrons, and
+		global models average the spokes out.
+	</Card>
+	<Card title="The approach" icon="list-format">
+		A ladder of models, each checked against the one below and against measurements: a 0D
+		global model, a 2D drift-fluid, 2D PIC-MCC, and a coupled fluid-PIC model.
+	</Card>
+	<Card title="Honesty about sources" icon="information">
+		Every source is marked as **read**, **abstract** (abstract only) or **cited** (known from a
+		reference list). See [About these notes](/about/).
+	</Card>
+</CardGrid>

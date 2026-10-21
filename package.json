@@ -1,0 +1,21 @@
+{
+  "name": "spokes3d.github.io",
+  "private": true,
+  "type": "module",
+  "version": "0.0.0",
+  "engines": {
+    "node": ">=22.12.0"
+  },
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "astro": "astro"
+  },
+  "dependencies": {
+    "@astrojs/starlight": "^0.42.6",
+    "@max-models/starlight-theme": "github:max-models/starlight-theme#v0.4.0",
+    "astro": "^7.3.8",
+    "sharp": "^0.35.3"
+  }
+}
