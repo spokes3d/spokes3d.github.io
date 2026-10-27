@@ -44,9 +44,14 @@ sidebar:
 
 ## Paper overview
 
-`resources/papers.md` is generated from `data/papers.json`: add a paper there, then run
-`npm run papers` to rewrite the page. `npm run papers:update` first refreshes the citation counts
-from [OpenAlex](https://openalex.org) (needs network access) and records the date.
+`resources/papers.md`, `reading-queue.md`, `timeline.md` and `public/papers.bib` are generated from
+`data/papers.json`. To add a paper, append it there (give a `title`, `doi` or `arxiv` so its
+citations can be looked up; `questions` and `rung` say what it is used for) and run
+`npm run papers`. The build fails if the generated files are out of date (`npm run papers:check`).
+
+`npm run papers:update` first refreshes the citation counts from [OpenAlex](https://openalex.org)
+(needs network access). The `Update citations` workflow does this every Monday, commits the
+result to `main` and starts a deploy.
 
 ## Deployment
 

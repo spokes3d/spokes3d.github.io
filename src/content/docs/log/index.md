@@ -8,8 +8,12 @@ sidebar:
 
 ## 2026-10-27
 
-- [Paper overview](/resources/papers/) added: one table of all papers with type, status and
-  citation count. Counts are filled in by `npm run papers:update`.
+- [Paper overview](/resources/papers/) added: one table of all papers with type, status, the
+  questions and model rungs each bears on, and citation count; it can be filtered and sorted.
+  Counts are filled in by `npm run papers:update`, and weekly by a workflow.
+- Added the [reading queue](/resources/reading-queue/), a [timeline](/resources/timeline/) of papers
+  per year and type, a [BibTeX export](/papers.bib), and the [numbers to match](/experiments/numbers/).
+- Stub summaries for Kaganovich et al. 2020 and Hecimovic et al. 2013.
 
 ## 2026-10-21
 

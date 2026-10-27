@@ -12,6 +12,7 @@
     "preview": "astro preview",
     "astro": "astro",
     "papers": "node scripts/papers.mjs",
+    "papers:check": "node scripts/papers.mjs --check",
     "papers:update": "node scripts/papers.mjs --update"
   },
   "dependencies": {

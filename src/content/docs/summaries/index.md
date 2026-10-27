@@ -16,6 +16,8 @@ main results with numbers, and what it means for the [open questions](/questions
 | [Boeuf, arXiv:2211.17051](/summaries/boeuf-dc-magnetron-pic/) | 2D PIC-MCC of spokes in a DC magnetron: the computational reference. |
 | [Charoy et al. 2019](/summaries/charoy-2019/) | A 2D axial-azimuthal E×B PIC benchmark that seven codes agree on: the verification case. |
 | [Gudmundsson et al. 2022](/summaries/gudmundsson-2022-irm-copper/) | The ionization region model applied to copper HiPIMS: the first global-model replication target. |
+| [Kaganovich et al. 2020](/summaries/kaganovich-2020/) | Stub. The review of E×B discharges, the family spokes belong to. |
+| [Hecimovic et al. 2013](/summaries/hecimovic-2013-spoke-shape/) | Stub. Spoke shape and the second ionization potential (Q5). |
 
 Papers known only from their abstract or from reference lists are in the
 [bibliography](/resources/bibliography/).
