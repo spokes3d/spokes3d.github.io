@@ -22,13 +22,13 @@ and add a [summary](/summaries/).
 | 6 | J.T. Gudmundsson et al., Plasma Sources Sci. Technol. 25 (2016) 065004, *An ionization region model of the reactive Ar/O2 high power impulse magnetron sputtering discharge* | cited | rung 1d | – |
 | 7 | G.D. Stancu et al., Plasma Sources Sci. Technol. 24 (2015) 045011, *Argon metastables in HiPIMS: validation of the ionization region model by direct comparison to time resolved tunable diode-laser diagnostics* | cited | rung 1d | – |
 | 8 | M.A. Raadu et al., Plasma Sources Sci. Technol. 20 (2011) 065007, *An ionization region model for high-power impulse magnetron sputtering discharges* | cited | rung 1d | – |
-| 9 | Villafana et al., Plasma Sources Sci. Technol. 30 (2021) 075002 | abstract | – | – |
+| 9 | Villafana et al., Plasma Sources Sci. Technol. 30 (2021) 075002, *2D radial-azimuthal particle-in-cell benchmark for E×B discharges* ([DOI](https://doi.org/10.1088/1361-6595/ac0a4a)) | abstract | – | – |
 | 10 | J.T. Gudmundsson, Plasma Sources Sci. Technol. 29 (2020) 113001, *Physics and technology of magnetron sputtering discharges* | cited | – | – |
-| 11 | Held et al. 2020 | cited | – | – |
+| 11 | Held et al. 2020, *Electron density, temperature and the potential structure of spokes in HiPIMS* ([DOI](https://doi.org/10.1088/1361-6595/ab5e46)) | cited | – | – |
 | 12 | Kawashima et al. 2018 | cited | – | – |
 | 13 | Anders and Yang 2017 | cited | – | – |
 | 14 | Panjan and Anders 2017 | cited | – | – |
-| 15 | Estrin et al. 2017 | cited | – | – |
+| 15 | Estrin et al. 2017, *Triple probe interrogation of spokes in a HiPIMS discharge* ([DOI](https://doi.org/10.1088/1361-6463/aa7544)) | cited | – | – |
 | 16 | Hecimovic 2016 | cited | – | – |
 | 17 | Yang et al. 2016 | cited | – | – |
 | 18 | Hecimovic 2015 | cited | – | – |

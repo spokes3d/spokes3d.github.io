@@ -68,13 +68,17 @@
     "ref": "Held et al. 2020",
     "year": 2020,
     "type": "experiment",
-    "status": "cited"
+    "status": "cited",
+    "title": "Electron density, temperature and the potential structure of spokes in HiPIMS",
+    "doi": "10.1088/1361-6595/ab5e46"
   },
   {
     "ref": "Estrin et al. 2017",
     "year": 2017,
     "type": "experiment",
-    "status": "cited"
+    "status": "cited",
+    "title": "Triple probe interrogation of spokes in a HiPIMS discharge",
+    "doi": "10.1088/1361-6463/aa7544"
   },
   {
     "ref": "Hecimovic 2016",
@@ -127,7 +131,10 @@
     "ref": "Villafana et al., Plasma Sources Sci. Technol. 30 (2021) 075002",
     "year": 2021,
     "type": "simulation",
-    "status": "abstract"
+    "status": "abstract",
+    "title": "2D radial-azimuthal particle-in-cell benchmark for E×B discharges",
+    "doi": "10.1088/1361-6595/ac0a4a",
+    "note": "radial-azimuthal benchmark, not a spoke study"
   },
   {
     "ref": "Boeuf and Takahashi, Phys. Rev. Lett. 124 (2020) 185005",

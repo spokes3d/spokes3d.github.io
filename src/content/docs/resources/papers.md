@@ -38,16 +38,16 @@ not yet tagged. The same papers grouped by topic are in the
 | J.T. Gudmundsson, Plasma Sources Sci. Technol. 29 (2020) 113001, *Physics and technology of magnetron sputtering discharges* | 2020 | review | cited | – | – |
 | A. Hecimovic, A. von Keudell, J. Phys. D 51 (2018) 453001, *Spokes in high power impulse magnetron sputtering plasmas* ([summary](/summaries/hecimovic-von-keudell-2018/)) | 2018 | review | read | all questions | – |
 | Thiemann-Monjé et al., arXiv:2306.03794 ([arXiv](https://arxiv.org/abs/2306.03794)) | 2023 | experiment | abstract | Q7 | – |
-| Held et al. 2020 | 2020 | experiment | cited | – | – |
+| Held et al. 2020, *Electron density, temperature and the potential structure of spokes in HiPIMS* ([DOI](https://doi.org/10.1088/1361-6595/ab5e46)) | 2020 | experiment | cited | – | – |
 | Anders and Yang 2017 | 2017 | experiment | cited | – | – |
 | Panjan and Anders 2017 | 2017 | experiment | cited | – | – |
-| Estrin et al. 2017 | 2017 | experiment | cited | – | – |
+| Estrin et al. 2017, *Triple probe interrogation of spokes in a HiPIMS discharge* ([DOI](https://doi.org/10.1088/1361-6463/aa7544)) | 2017 | experiment | cited | – | – |
 | Hecimovic 2016 | 2016 | experiment | cited | – | – |
 | Yang et al. 2016 | 2016 | experiment | cited | – | – |
 | Hecimovic 2015 | 2015 | experiment | cited | – | – |
 | A. Hecimovic, S. Gallian, R.-P. Brinkmann, M. Böke, J. Winter, arXiv:1305.5453 ([arXiv](https://arxiv.org/abs/1305.5453)) | 2013 | experiment | read | Q5 | – |
 | J.-P. Boeuf, arXiv:2211.17051 ([summary](/summaries/boeuf-dc-magnetron-pic/), [arXiv](https://arxiv.org/abs/2211.17051)) | 2022 | simulation | read | Q2, Q6, rung 1b, 2 | – |
-| Villafana et al., Plasma Sources Sci. Technol. 30 (2021) 075002 | 2021 | simulation | abstract | – | – |
+| Villafana et al., Plasma Sources Sci. Technol. 30 (2021) 075002, *2D radial-azimuthal particle-in-cell benchmark for E×B discharges* ([DOI](https://doi.org/10.1088/1361-6595/ac0a4a)) | 2021 | simulation (radial-azimuthal benchmark, not a spoke study) | abstract | – | – |
 | Boeuf and Takahashi, Phys. Rev. Lett. 124 (2020) 185005 | 2020 | simulation | cited | Q3 | – |
 | T. Charoy et al., Plasma Sources Sci. Technol. 28 (2019) 105010, *2D axial-azimuthal particle-in-cell benchmark for low-temperature partially magnetized plasmas* ([summary](/summaries/charoy-2019/)) | 2019 | simulation | read | rung 2 | – |
 | Boeuf and Chaudhury, Phys. Rev. Lett. 111 (2013) 155005 | 2013 | simulation | cited | – | – |
