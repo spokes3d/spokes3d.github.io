@@ -42,6 +42,12 @@ circular planar magnetron, not to scale. **Click a part to jump to its descripti
 	fill: var(--sl-color-gray-5); stroke: var(--sl-color-gray-3);
 }
 .magnetron-figure .part path { fill: var(--sl-color-text); stroke: var(--sl-color-text); }
+.magnetron-figure .part circle { fill: var(--sl-color-gray-5); stroke: var(--sl-color-gray-3); }
+.magnetron-figure .part.ring circle { fill: none; stroke: color-mix(in srgb, var(--sl-color-accent) 35%, transparent); stroke-width: 30; }
+.magnetron-figure .part.spoke circle { fill: none; stroke: var(--sl-color-accent); stroke-width: 30; stroke-dasharray: 90 507; }
+.magnetron-figure .arrow { fill: none; stroke: var(--sl-color-text); stroke-width: 2; marker-end: url(#head); }
+.magnetron-figure marker path { fill: var(--sl-color-text); }
+.magnetron-figure .leader { stroke: var(--sl-color-gray-3); }
 .magnetron-figure .region rect { fill: transparent; stroke-dasharray: 3 3; }
 .magnetron-figure .ir ellipse { fill: color-mix(in srgb, var(--sl-color-accent) 30%, transparent); stroke: var(--sl-color-accent); }
 .magnetron-figure .field path { fill: none; stroke: var(--sl-color-accent-high); }
@@ -163,6 +169,41 @@ peak power densities orders of magnitude above dcMS, so that much of the sputter
 | Density at the sheath edge | ~10¹⁶ m⁻³ | up to ~10²⁰ m⁻³ |
 | Ions that sputter | mostly argon | argon and the target's own metal |
 | Spokes | one on a 2-inch target | 4–5, falling to one with current, until they disappear above ~2 kW/cm² |
+
+## Seen from above
+
+Looked at from the substrate, the target is a disc and the ionization region is a ring over the
+racetrack. A **spoke** is a localized bright zone on that ring, and it travels around it, so a
+single frozen image shows a ring with one or a few brighter segments. The number of spokes on the
+ring at one time is the **mode number**.
+
+<div class="magnetron-figure">
+<svg viewBox="0 0 640 360" role="img" aria-labelledby="top-title" xmlns="http://www.w3.org/2000/svg">
+<title id="top-title">Top view of a circular planar magnetron: the target, the racetrack ring and one spoke</title>
+<defs><marker id="head" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0 L10 5 L0 10 z"/></marker></defs>
+<a href="#target" class="part"><circle cx="180" cy="180" r="150"/></a>
+<a href="#magnets-and-yoke" class="part"><circle cx="180" cy="180" r="40"/><text x="180" y="184" text-anchor="middle">centre magnet</text></a>
+<a href="#ionization-region-and-racetrack" class="part ring"><circle cx="180" cy="180" r="95"/></a>
+<a href="/summaries/spokes-in-brief/" class="part spoke"><circle cx="180" cy="180" r="95" transform="rotate(-55 180 180)"/></a>
+<path d="M59.7 136.2 A128 128 0 0 1 162.2 53.2" class="arrow"/>
+<path d="M233.7 149.0 A62 62 0 0 0 171.4 118.6" class="arrow"/>
+<line x1="260.8" y1="114.9" x2="400" y2="60" class="leader"/>
+<a href="/summaries/spokes-in-brief/" class="part"><text x="404" y="64">spoke</text><text x="404" y="78" class="note">a rotating ionization zone</text></a>
+<line x1="287.6" y1="196.5" x2="400" y2="130" class="leader"/>
+<a href="#ionization-region-and-racetrack" class="part"><text x="404" y="134">racetrack</text><text x="404" y="148" class="note">the ring under the ionization region</text></a>
+<line x1="255.0" y1="309.9" x2="400" y2="200" class="leader"/>
+<a href="#target" class="part"><text x="404" y="204">target</text><text x="404" y="218" class="note">seen from above</text></a>
+<text x="404" y="262">outer arrow: with E×B</text><text x="404" y="276" class="note">HiPIMS, ≥ 250 W/cm²; mode number falls with current</text>
+<text x="404" y="298">inner arrow: against E×B (retrograde)</text><text x="404" y="312" class="note">0.1 to 1 W/cm², one spoke</text>
+<text x="404" y="338" class="note">The sense on the page is a convention.</text>
+</svg>
+</div>
+
+The drift of the electrons in the ring is the E×B direction. Spokes rotate *with* it at high power
+and *against* it at low power ([Spokes in brief](/summaries/spokes-in-brief/)), and the speed is
+about ten times below the drift speed, because a spoke is a pattern and not a flow. Which way round
+the page the E×B direction runs depends on the polarity of the magnets; the drawing takes one sense
+by convention.
 
 ## What the models include
 
