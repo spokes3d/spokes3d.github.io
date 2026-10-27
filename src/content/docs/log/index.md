@@ -13,6 +13,8 @@ sidebar:
   Counts are filled in by `npm run papers:update`, and weekly by a workflow.
 - Added the [reading queue](/resources/reading-queue/), a [timeline](/resources/timeline/) of papers
   per year and type, a [BibTeX export](/papers.bib), and the [numbers to match](/experiments/numbers/).
+- [Anatomy of a magnetron](/resources/magnetron-anatomy/): a clickable cross-section and a
+  description of each part and plasma region, with what matters for spokes.
 - Stub summaries for Kaganovich et al. 2020 and Hecimovic et al. 2013.
 
 ## 2026-10-21

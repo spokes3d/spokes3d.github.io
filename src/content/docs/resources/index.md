@@ -6,6 +6,8 @@ sidebar:
   order: 0
 ---
 
+- [Anatomy of a magnetron](/resources/magnetron-anatomy/): the parts of a magnetron and the plasma
+  regions above it, as a clickable drawing.
 - [Bibliography](/resources/bibliography/): every source, with how it is known (read, abstract,
   cited).
 - [Paper overview](/resources/papers/): all papers in one table, with type (review, experiment,
