@@ -1,0 +1,139 @@
+[
+  {
+    "ref": "A. Hecimovic, A. von Keudell, J. Phys. D 51 (2018) 453001",
+    "title": "Spokes in high power impulse magnetron sputtering plasmas",
+    "year": 2018,
+    "type": "review",
+    "status": "read",
+    "summary": "/summaries/hecimovic-von-keudell-2018/"
+  },
+  {
+    "ref": "I.D. Kaganovich et al., Phys. Plasmas 27 (2020) 120601",
+    "title": "Physics of E×B discharges relevant to plasma propulsion and similar technologies",
+    "year": 2020,
+    "type": "review",
+    "status": "read",
+    "arxiv": "2007.09194"
+  },
+  {
+    "ref": "J.T. Gudmundsson, Plasma Sources Sci. Technol. 29 (2020) 113001",
+    "title": "Physics and technology of magnetron sputtering discharges",
+    "year": 2020,
+    "type": "review",
+    "status": "cited"
+  },
+  {
+    "ref": "A. Hecimovic, S. Gallian, R.-P. Brinkmann, M. Böke, J. Winter, arXiv:1305.5453",
+    "year": 2013,
+    "type": "experiment",
+    "status": "read",
+    "arxiv": "1305.5453"
+  },
+  {
+    "ref": "Thiemann-Monjé et al., arXiv:2306.03794",
+    "year": 2023,
+    "type": "experiment",
+    "status": "abstract",
+    "arxiv": "2306.03794"
+  },
+  { "ref": "Anders and Yang 2017", "year": 2017, "type": "experiment", "status": "cited" },
+  { "ref": "Panjan and Anders 2017", "year": 2017, "type": "experiment", "status": "cited" },
+  { "ref": "Held et al. 2020", "year": 2020, "type": "experiment", "status": "cited" },
+  { "ref": "Estrin et al. 2017", "year": 2017, "type": "experiment", "status": "cited" },
+  { "ref": "Hecimovic 2016", "year": 2016, "type": "experiment", "status": "cited" },
+  { "ref": "Hecimovic 2015", "year": 2015, "type": "experiment", "status": "cited" },
+  { "ref": "Yang et al. 2016", "year": 2016, "type": "experiment", "status": "cited" },
+  {
+    "ref": "J.-P. Boeuf, arXiv:2211.17051",
+    "year": 2022,
+    "type": "simulation",
+    "status": "read",
+    "arxiv": "2211.17051",
+    "summary": "/summaries/boeuf-dc-magnetron-pic/"
+  },
+  {
+    "ref": "T. Charoy et al., Plasma Sources Sci. Technol. 28 (2019) 105010",
+    "title": "2D axial-azimuthal particle-in-cell benchmark for low-temperature partially magnetized plasmas",
+    "year": 2019,
+    "type": "simulation",
+    "status": "read",
+    "summary": "/summaries/charoy-2019/"
+  },
+  {
+    "ref": "Gallian et al., arXiv:1305.5354",
+    "year": 2013,
+    "type": "theory",
+    "status": "abstract",
+    "arxiv": "1305.5354"
+  },
+  {
+    "ref": "Villafana et al., Plasma Sources Sci. Technol. 30 (2021) 075002",
+    "year": 2021,
+    "type": "simulation",
+    "status": "abstract"
+  },
+  {
+    "ref": "Boeuf and Takahashi, Phys. Rev. Lett. 124 (2020) 185005",
+    "year": 2020,
+    "type": "simulation",
+    "status": "cited"
+  },
+  {
+    "ref": "Boeuf and Chaudhury, Phys. Rev. Lett. 111 (2013) 155005",
+    "year": 2013,
+    "type": "simulation",
+    "status": "cited"
+  },
+  { "ref": "Kawashima et al. 2018", "year": 2018, "type": "unclassified", "status": "cited" },
+  { "ref": "Brenning et al. 2013", "year": 2013, "type": "unclassified", "status": "cited" },
+  {
+    "ref": "J.T. Gudmundsson et al., Surf. Coat. Technol. 442 (2022) 128189",
+    "year": 2022,
+    "type": "model",
+    "status": "read",
+    "summary": "/summaries/gudmundsson-2022-irm-copper/"
+  },
+  {
+    "ref": "M.A. Raadu et al., Plasma Sources Sci. Technol. 20 (2011) 065007",
+    "title": "An ionization region model for high-power impulse magnetron sputtering discharges",
+    "year": 2011,
+    "type": "model",
+    "status": "cited"
+  },
+  {
+    "ref": "C. Huo et al., J. Phys. D 50 (2017) 354003",
+    "title": "Particle-balance models for pulsed sputtering magnetrons",
+    "year": 2017,
+    "type": "model",
+    "status": "cited"
+  },
+  {
+    "ref": "M. Rudolph et al., Plasma Sources Sci. Technol. 30 (2021) 045011",
+    "title": "On the electron energy distribution function in the high power impulse magnetron sputtering discharge",
+    "year": 2021,
+    "type": "model",
+    "status": "cited"
+  },
+  {
+    "ref": "H. Eliasson et al., Plasma Sources Sci. Technol. 30 (2021) 115017",
+    "title": "Modeling of high power impulse magnetron sputtering discharges with graphite target",
+    "year": 2021,
+    "type": "model",
+    "status": "cited"
+  },
+  {
+    "ref": "J.T. Gudmundsson et al., Plasma Sources Sci. Technol. 25 (2016) 065004",
+    "title": "An ionization region model of the reactive Ar/O2 high power impulse magnetron sputtering discharge",
+    "year": 2016,
+    "type": "model",
+    "status": "cited"
+  },
+  {
+    "ref": "G.D. Stancu et al., Plasma Sources Sci. Technol. 24 (2015) 045011",
+    "title": "Argon metastables in HiPIMS: validation of the ionization region model by direct comparison to time resolved tunable diode-laser diagnostics",
+    "year": 2015,
+    "type": "model",
+    "status": "cited",
+    "note": "model validated against measurement"
+  }
+]

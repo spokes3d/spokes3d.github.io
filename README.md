@@ -42,6 +42,12 @@ sidebar:
     variant: success
 ```
 
+## Paper overview
+
+`resources/papers.md` is generated from `data/papers.json`: add a paper there, then run
+`npm run papers` to rewrite the page. `npm run papers:update` first refreshes the citation counts
+from [OpenAlex](https://openalex.org) (needs network access) and records the date.
+
 ## Deployment
 
 `.github/workflows/deploy.yml` builds the site and deploys it to GitHub Pages on every push to

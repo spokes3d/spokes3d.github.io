@@ -6,6 +6,11 @@ sidebar:
   order: 0
 ---
 
+## 2026-10-27
+
+- [Paper overview](/resources/papers/) added: one table of all papers with type, status and
+  citation count. Counts are filled in by `npm run papers:update`.
+
 ## 2026-10-21
 
 - Second aim added: reproduce the published magnetron simulations, one model family at a time.

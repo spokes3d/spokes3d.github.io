@@ -10,7 +10,9 @@
     "dev": "astro dev",
     "build": "astro build",
     "preview": "astro preview",
-    "astro": "astro"
+    "astro": "astro",
+    "papers": "node scripts/papers.mjs",
+    "papers:update": "node scripts/papers.mjs --update"
   },
   "dependencies": {
     "@astrojs/starlight": "^0.42.6",
