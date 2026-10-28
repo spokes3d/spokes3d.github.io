@@ -17,6 +17,8 @@ jobs:
       - uses: actions/setup-node@v7
         with:
           node-version: 22
+          # The newest release, not the runner's cached one: Astro raises its minimum often.
+          check-latest: true
       - run: node scripts/papers.mjs --update
       - name: Commit and deploy
         run: |
