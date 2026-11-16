@@ -9,18 +9,18 @@ sidebar:
 
 Papers marked **abstract** or **cited** in the [paper overview](/resources/papers/), most cited first.
 Where counts are missing, papers already tagged with an open question or model rung come first, then
-newer ones. Counts from OpenAlex, as of 2026-11-09. Once a paper has been read, set its status to `read` in `data/papers.json`
+newer ones. Counts from OpenAlex, as of 2026-11-16. Once a paper has been read, set its status to `read` in `data/papers.json`
 and add a [summary](/summaries/).
 
 | # | Paper | Status | Bears on | Citations |
 |---|---|---|---|---|
-| 1 | J.T. Gudmundsson, Plasma Sources Sci. Technol. 29 (2020) 113001, *Physics and technology of magnetron sputtering discharges* | cited | – | 562 |
-| 2 | M.A. Raadu et al., Plasma Sources Sci. Technol. 20 (2011) 065007, *An ionization region model for high-power impulse magnetron sputtering discharges* | cited | rung 1d | 135 |
-| 3 | Villafana et al., Plasma Sources Sci. Technol. 30 (2021) 075002, *2D radial-azimuthal particle-in-cell benchmark for E×B discharges* ([DOI](https://doi.org/10.1088/1361-6595/ac0a4a)) | abstract | – | 105 |
-| 4 | C. Huo et al., J. Phys. D 50 (2017) 354003, *Particle-balance models for pulsed sputtering magnetrons* | cited | rung 1d | 89 |
-| 5 | G.D. Stancu et al., Plasma Sources Sci. Technol. 24 (2015) 045011, *Argon metastables in HiPIMS: validation of the ionization region model by direct comparison to time resolved tunable diode-laser diagnostics* | cited | rung 1d | 54 |
+| 1 | J.T. Gudmundsson, Plasma Sources Sci. Technol. 29 (2020) 113001, *Physics and technology of magnetron sputtering discharges* | cited | – | 568 |
+| 2 | M.A. Raadu et al., Plasma Sources Sci. Technol. 20 (2011) 065007, *An ionization region model for high-power impulse magnetron sputtering discharges* | cited | rung 1d | 134 |
+| 3 | Villafana et al., Plasma Sources Sci. Technol. 30 (2021) 075002, *2D radial-azimuthal particle-in-cell benchmark for E×B discharges* ([DOI](https://doi.org/10.1088/1361-6595/ac0a4a)) | abstract | – | 107 |
+| 4 | C. Huo et al., J. Phys. D 50 (2017) 354003, *Particle-balance models for pulsed sputtering magnetrons* | cited | rung 1d | 91 |
+| 5 | G.D. Stancu et al., Plasma Sources Sci. Technol. 24 (2015) 045011, *Argon metastables in HiPIMS: validation of the ionization region model by direct comparison to time resolved tunable diode-laser diagnostics* | cited | rung 1d | 56 |
 | 6 | Held et al. 2020, *Electron density, temperature and the potential structure of spokes in HiPIMS* ([DOI](https://doi.org/10.1088/1361-6595/ab5e46)) | cited | – | 36 |
-| 7 | Estrin et al. 2017, *Triple probe interrogation of spokes in a HiPIMS discharge* ([DOI](https://doi.org/10.1088/1361-6463/aa7544)) | cited | – | 34 |
+| 7 | Estrin et al. 2017, *Triple probe interrogation of spokes in a HiPIMS discharge* ([DOI](https://doi.org/10.1088/1361-6463/aa7544)) | cited | – | 36 |
 | 8 | Gallian et al., arXiv:1305.5354 ([arXiv](https://arxiv.org/abs/1305.5354)) | abstract | – | 29 |
 | 9 | H. Eliasson et al., Plasma Sources Sci. Technol. 30 (2021) 115017, *Modeling of high power impulse magnetron sputtering discharges with graphite target* | cited | rung 1d | 27 |
 | 10 | M. Rudolph et al., Plasma Sources Sci. Technol. 30 (2021) 045011, *On the electron energy distribution function in the high power impulse magnetron sputtering discharge* | cited | rung 1d | 24 |
