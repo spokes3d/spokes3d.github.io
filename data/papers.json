@@ -16,8 +16,8 @@
       "Q7",
       "Q8"
     ],
-    "citations": 72,
-    "citationsDate": "2026-11-16"
+    "citations": 81,
+    "citationsDate": "2026-11-23"
   },
   {
     "ref": "I.D. Kaganovich et al., Phys. Plasmas 27 (2020) 120601",
@@ -26,8 +26,8 @@
     "type": "review",
     "status": "read",
     "arxiv": "2007.09194",
-    "citations": 216,
-    "citationsDate": "2026-11-16"
+    "citations": 241,
+    "citationsDate": "2026-11-23"
   },
   {
     "ref": "J.T. Gudmundsson, Plasma Sources Sci. Technol. 29 (2020) 113001",
@@ -35,8 +35,8 @@
     "year": 2020,
     "type": "review",
     "status": "cited",
-    "citations": 568,
-    "citationsDate": "2026-11-16"
+    "citations": 607,
+    "citationsDate": "2026-11-23"
   },
   {
     "ref": "A. Hecimovic, S. Gallian, R.-P. Brinkmann, M. Böke, J. Winter, arXiv:1305.5453",
@@ -47,8 +47,8 @@
     "questions": [
       "Q5"
     ],
-    "citations": 59,
-    "citationsDate": "2026-11-16"
+    "citations": 68,
+    "citationsDate": "2026-11-23"
   },
   {
     "ref": "Thiemann-Monjé et al., arXiv:2306.03794",
@@ -60,7 +60,7 @@
       "Q7"
     ],
     "citations": 5,
-    "citationsDate": "2026-11-16"
+    "citationsDate": "2026-11-23"
   },
   {
     "ref": "Anders and Yang 2017",
@@ -81,8 +81,8 @@
     "status": "cited",
     "title": "Electron density, temperature and the potential structure of spokes in HiPIMS",
     "doi": "10.1088/1361-6595/ab5e46",
-    "citations": 36,
-    "citationsDate": "2026-11-16"
+    "citations": 40,
+    "citationsDate": "2026-11-23"
   },
   {
     "ref": "Estrin et al. 2017",
@@ -91,8 +91,8 @@
     "status": "cited",
     "title": "Triple probe interrogation of spokes in a HiPIMS discharge",
     "doi": "10.1088/1361-6463/aa7544",
-    "citations": 36,
-    "citationsDate": "2026-11-16"
+    "citations": 37,
+    "citationsDate": "2026-11-23"
   },
   {
     "ref": "Hecimovic 2016",
@@ -124,8 +124,8 @@
       "Q6"
     ],
     "rung": "1b, 2",
-    "citations": 18,
-    "citationsDate": "2026-11-16"
+    "citations": 22,
+    "citationsDate": "2026-11-23"
   },
   {
     "ref": "T. Charoy et al., Plasma Sources Sci. Technol. 28 (2019) 105010",
@@ -135,8 +135,8 @@
     "status": "read",
     "summary": "/summaries/charoy-2019/",
     "rung": "2",
-    "citations": 159,
-    "citationsDate": "2026-11-16"
+    "citations": 186,
+    "citationsDate": "2026-11-23"
   },
   {
     "ref": "Gallian et al., arXiv:1305.5354",
@@ -144,8 +144,8 @@
     "type": "theory",
     "status": "abstract",
     "arxiv": "1305.5354",
-    "citations": 29,
-    "citationsDate": "2026-11-16"
+    "citations": 36,
+    "citationsDate": "2026-11-23"
   },
   {
     "ref": "Villafana et al., Plasma Sources Sci. Technol. 30 (2021) 075002",
@@ -155,8 +155,8 @@
     "title": "2D radial-azimuthal particle-in-cell benchmark for E×B discharges",
     "doi": "10.1088/1361-6595/ac0a4a",
     "note": "radial-azimuthal benchmark, not a spoke study",
-    "citations": 107,
-    "citationsDate": "2026-11-16"
+    "citations": 124,
+    "citationsDate": "2026-11-23"
   },
   {
     "ref": "Boeuf and Takahashi, Phys. Rev. Lett. 124 (2020) 185005",
@@ -200,8 +200,8 @@
     "type": "model",
     "status": "cited",
     "rung": "1d",
-    "citations": 134,
-    "citationsDate": "2026-11-16"
+    "citations": 141,
+    "citationsDate": "2026-11-23"
   },
   {
     "ref": "C. Huo et al., J. Phys. D 50 (2017) 354003",
@@ -210,8 +210,8 @@
     "type": "model",
     "status": "cited",
     "rung": "1d",
-    "citations": 91,
-    "citationsDate": "2026-11-16"
+    "citations": 94,
+    "citationsDate": "2026-11-23"
   },
   {
     "ref": "M. Rudolph et al., Plasma Sources Sci. Technol. 30 (2021) 045011",
@@ -221,7 +221,7 @@
     "status": "cited",
     "rung": "1d",
     "citations": 24,
-    "citationsDate": "2026-11-16"
+    "citationsDate": "2026-11-23"
   },
   {
     "ref": "H. Eliasson et al., Plasma Sources Sci. Technol. 30 (2021) 115017",
@@ -230,8 +230,8 @@
     "type": "model",
     "status": "cited",
     "rung": "1d",
-    "citations": 27,
-    "citationsDate": "2026-11-16"
+    "citations": 28,
+    "citationsDate": "2026-11-23"
   },
   {
     "ref": "J.T. Gudmundsson et al., Plasma Sources Sci. Technol. 25 (2016) 065004",
@@ -250,6 +250,6 @@
     "note": "model validated against measurement",
     "rung": "1d",
     "citations": 56,
-    "citationsDate": "2026-11-16"
+    "citationsDate": "2026-11-23"
   }
 ]
